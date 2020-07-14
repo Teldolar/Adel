@@ -1,0 +1,9 @@
+C:\Users\Artur\source\repos\Adel_Practice\bin\Debug\Adel_Practice.exe.config
+C:\Users\Artur\source\repos\Adel_Practice\bin\Debug\Adel_Practice.exe
+C:\Users\Artur\source\repos\Adel_Practice\bin\Debug\Adel_Practice.pdb
+C:\Users\Artur\source\repos\Adel_Practice\obj\Debug\Adel_Practice.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\Adel_Practice\obj\Debug\Adel_Practice.Form1.resources
+C:\Users\Artur\source\repos\Adel_Practice\obj\Debug\Adel_Practice.Properties.Resources.resources
+C:\Users\Artur\source\repos\Adel_Practice\obj\Debug\Adel_Practice.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\Adel_Practice\obj\Debug\Adel_Practice.exe
+C:\Users\Artur\source\repos\Adel_Practice\obj\Debug\Adel_Practice.pdb
